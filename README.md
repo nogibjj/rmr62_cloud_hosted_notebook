@@ -23,9 +23,9 @@ In the ingest section, I retreive player stats from the nba_api from 2000 to 202
 #### EDA
 The EDA section shows some descriptive statistics for our dataset, and explores the relationships between some variables through informative plots.
 
-- The points histogram follows a distribution with a right skew, and appears to be exponential/poisson in nature.
-- The age distribution of the players in the last 13 seasons of the nba appear to follow a normal curve, with a mean aroun 25.
-- The average points by age also seems to follow a normal distribution with players scoring the most points in the 25-30 age group.
+- The `Total Points` histogram follows a distribution with a right skew, and appears to be exponential/poisson in nature.
+- The `Age` distribution of the players in the last 13 seasons of the nba appear to follow a normal curve, with a mean aroun 25.
+- The average points by `Age` also seems to follow a normal distribution with players scoring the most points in the 25-30 age group.
 
 ![image](https://github.com/nogibjj/rmr62_cloud_hosted_notebook/assets/36940292/dec2f36c-b6cf-4284-9f47-6dafd9d30576)
 ![image](https://github.com/nogibjj/rmr62_cloud_hosted_notebook/assets/36940292/9b91e40a-fdde-428c-83f7-259d22d389a2)
